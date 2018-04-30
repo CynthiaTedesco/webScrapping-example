@@ -1,0 +1,22 @@
+{
+  "name": "booking",
+  "version": "1.0.0",
+  "description": "Just is a easy example",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "booking",
+    "turism"
+  ],
+  "author": "César Casas",
+  "license": "ISC",
+  "dependencies": {
+    "browserwithphantom": "^2.0.55",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "mongojs": "^2.4.1",
+    "puppeteer": "^0.13.0"
+  }
+}
