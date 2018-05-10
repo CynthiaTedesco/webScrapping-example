@@ -20,7 +20,8 @@ FrontOffice/backend
 
 # Install
 node 9 o superior
-mongodb
+mongodb -->
+    https://docs.mongodb.com/manual/installation/
 
 ```bash
 npm install
