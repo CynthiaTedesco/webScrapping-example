@@ -4,6 +4,7 @@
   "description": "Just is a easy example",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "mocha"
   },
   "keywords": [

@@ -20,8 +20,9 @@ FrontOffice/backend
 
 # Install
 node 9 o superior
+mongodb
 
 ```bash
 npm install
-node app.js
+npm start
 ```
